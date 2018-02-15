@@ -29,7 +29,7 @@ The Workbench provides 30% of all use cases for an enterprise level project. You
 
 ## Technical requirements
 
-You should have some kind of Kubernetes cluster running as well as a AWS account.
+You should have access to at least one Kubernetes cluster as well as a AWS account.
 
 ![basic setup](https://github.com/consort-it/cme-workbench/blob/master/img/setup.PNG)
 
