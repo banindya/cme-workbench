@@ -19,7 +19,7 @@ CME Workbench is advanced tooling and requires some time to adapt to your infras
 
 CME Workbench is a Angular UI with several backend microservices. 
 
-![basic setup](https://github.com/consort-it/cme-workbench/img/setup.PNG)
+![basic setup](https://github.com/consort-it/cme-workbench/blob/master/img/setup.PNG)
 
 ## Technical requirements
 
