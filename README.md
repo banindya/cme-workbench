@@ -8,7 +8,7 @@ The toolkit addresses some of the **real world challenges** like
 - cloud security, 
 - automated documentation, 
 - advanced testing, 
-- tool integratian and 
+- tool integration and 
 - cost control.
 
 <aside class="notice">
@@ -18,6 +18,8 @@ CME Workbench is advanced tooling and requires some time to adapt to your infras
 ## What is it good for?
 
 CME Workbench is a Angular UI with several backend microservices. 
+
+![basic setup](https://github.com/consort-it/cme-workbench/img/setup.PNG)
 
 ## Technical requirements
 
