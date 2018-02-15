@@ -19,6 +19,8 @@ CME Workbench is advanced tooling and requires some time to adapt to your infras
 
 CME Workbench is a Angular UI with several backend microservices. The UI is used by DevOps staff to tackle daily challenges ranging from "create a new microservice" to "calculate the monthly costs for project XY".
 
+The Workbench connects otherwise independent products to speed up the DevOps livecycle. It adds metadata around a set of microservices and forms the base for complex use cases (like documenting data flows for German DSGVO aka "Verzeichnis von Verarbeitungstätigkeiten").
+
 ![sample screen](https://github.com/consort-it/cme-workbench/blob/master/img/cme-front-browser.PNG)
 
 The Workbench provides 30% of all use cases for an enterprise level project. Your team can enhance the toolkit with own microservices and Angular Components.
