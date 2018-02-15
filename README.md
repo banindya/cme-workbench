@@ -11,7 +11,7 @@ The toolkit addresses some of the **real world challenges** like
 - tool integration and 
 - cost control.
 
-<aside class="notice">
+<aside class="warning">
 CME Workbench is advanced tooling and requires some time to adapt to your infrastructure! For example the UI is secured by JWTs issued by a state-of-the-art IAM service as well as any services involved.
 </aside>
 
