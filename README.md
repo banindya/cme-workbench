@@ -4,7 +4,12 @@ CME is short for Consort Microservice Experience.
 
 The toolkit is build for a medium to large size microservice setup with more than one team working in local, dev and production environments.
 
-The toolkit addresses some of the real world challenges like cloud security, automated documentation, advanced testing, tool integratian and cost control.
+The toolkit addresses some of the real world challenges like 
+- cloud security, 
+- automated documentation, 
+- advanced testing, 
+- tool integratian and 
+- cost control.
 
 ## What is it good for?
 
