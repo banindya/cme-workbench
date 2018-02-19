@@ -42,7 +42,7 @@ There is no setup necessary apart from installing the adapters in a separate Kub
 The CME workbench is composed of the following components:
 
 Component | Description | Required
------------------------------------
+------------|----------|-------------
 Angular UI | The user interface, can be started without any backend service for demo purposes | yes
 GitLab Adapter | Creates microservices in new GitLab/GitHub repositories | no
 Kubernetes Adapter | Reads runtime configuration from any Kubernetes Cluster | recommended
