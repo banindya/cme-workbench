@@ -43,7 +43,7 @@ The CME workbench is composed of the following components:
 
 Component | Description | Required
 ------------|----------|-------------
-[Angular UI](https://github.com/consort-it/cme-workbench) | The user interface, can be started without any backend service for demo purposes | yes
+[Angular UI](https://github.com/consort-it/cme-workbench-ui) | The user interface, can be started without any backend service for demo purposes | yes
 [GitLab Adapter](https://github.com/consort-it/gitlab-adapter) | Creates microservices in new GitLab/GitHub repositories | no
 [Kubernetes Adapter](https://github.com/consort-it/kubernetes-adapter) | Reads runtime configuration from any Kubernetes Cluster | recommended
 [Jira Adapter](https://github.com/consort-it/jira-adapter) | Reads tasks from Jira | no
@@ -55,7 +55,7 @@ The demo application is composed of several components to create a **timesheet a
 
 Component | Description | Docker-Container
 ----------|-------------|------------------
-Timesheet UI | An Angular 5 app to enter and query data | [docker](https://jfrog.io)
-Timesheet backend | A Java 8/Spark microservice which stores data in a AWS RDS PostgresSQL DB | [docker](https://jfrog.io)
-Execel exporter | A message driven microservice which sends exported data via eMail | [docker](https://jfrog.io)
-Synthetic test | A Cucumber powered containerized integration test which is meant to be run continuously to monitor core processes of the timesheet app | [docker](https://jfrog.io)
+[Timesheet UI](https://github.com/consort-it/timesheet-ui) | An Angular 5 app to enter and query data | [Artifactory](https://jfrog.io)
+[Timesheet backend](https://github.com/consort-it/timesheet-backend)  | A Java 8/Spark microservice which stores data in a AWS RDS PostgresSQL DB | [Artifactory](https://jfrog.io)
+[Excel exporter](https://github.com/consort-it/excel-exporter)  | A message driven microservice which sends exported data via eMail | [Artifactory](https://jfrog.io)
+[Synthetic test](https://github.com/consort-it/timesheet-synth-test)  | A Cucumber powered containerized integration test which is meant to be run continuously to monitor core processes of the timesheet app | [Artifactory](https://jfrog.io)
