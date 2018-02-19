@@ -36,3 +36,14 @@ You should have access to at least one Kubernetes cluster as well as a AWS accou
 Typically you have a lot of tooling already in place. We provide a set of tooling adapters for the most common services like GitLab or Jenkins. Because **all components are open source** you can adapt the workbench to any DevOps configuration.
 
 There is no setup necessary apart from installing the adapters in a separate Kubernetes namespace and a AWS Cognito Userpool. You can even run the CME Workbench UI locally.
+
+## Directory of components
+
+The CME workbench is composed of the following components:
+
+Component | Description | Required
+-----------------------------------
+Angular UI | The user interface, can be started without any backend service for demo purposes | yes
+GitLab Adapter | Creates microservices in new GitLab/GitHub repositories | no
+Kubernetes Adapter | Reads runtime configuration from any Kubernetes Cluster | recommended
+
