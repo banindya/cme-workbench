@@ -15,6 +15,10 @@ The toolkit addresses some of the **real world challenges** like
 CME Workbench is advanced tooling and requires some time to adapt to your infrastructure! For example the UI is secured by JWTs issued by a state-of-the-art IAM service as well as any services involved.
 </div>
 
+## Example app
+
+The CME workbench manages "projects" which are a set of microservices. To illustrate the concepts we provide a sample app which is built from 4 microservices. The sample application is called **timesheet**. To see how you can switch projects in the UI we treat the CME workbench as a project.
+
 ## What is it good for?
 
 CME Workbench is a Angular UI with several backend microservices. The UI is used by DevOps staff to tackle daily challenges ranging from "create a new microservice" to "calculate the monthly costs for project XY".
