@@ -49,6 +49,8 @@ Component | Description | Required
 [Jira Adapter](https://github.com/consort-it/jira-adapter) | Reads tasks from Jira | no
 [Confluence Adapter](https://github.com/consort-it/confluence-adapter) | Used by Jenkins job to update documentation pages | no
 
+Each microservice nees some features to be a [valid Kubernetes microservice](https://github.com/consort-it/cme-workbench/wiki/Microservices).
+
 ## Demo application
 
 The demo application is composed of several components to create a **timesheet app** (an angular app with some backend services and authentication):
