@@ -17,7 +17,7 @@ CME Workbench is advanced tooling and requires some time to adapt to your infras
 
 ## Example app
 
-The CME workbench manages "projects" which are a set of microservices. To illustrate the concepts we provide a sample app which is built from 4 microservices. The sample application is called **timesheet**. To see how you can switch projects in the UI we treat the CME workbench as a project.
+The CME workbench manages "projects" which are a set of microservices. To illustrate the concepts we provide a [Timesheet sample app](https://github.com/consort-it/cme-workbench/wiki/Demo-Application) which is built from 4 microservices. To see how you can switch projects in the UI we treat the CME workbench as a second project.
 
 ## What is it good for?
 
