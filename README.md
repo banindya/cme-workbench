@@ -54,14 +54,3 @@ Component | Description | Required
 [Confluence Adapter](https://github.com/consort-it/confluence-adapter) | Used by Jenkins job to update documentation pages | no
 
 Each microservice needs some features to be a [valid Kubernetes microservice](https://github.com/consort-it/cme-workbench/wiki/Features-of-a-microservice).
-
-## Demo application
-
-The demo application is composed of several components to create a **timesheet app** (an angular app with some backend services and authentication):
-
-Component | Description | Docker-Container
-----------|-------------|------------------
-[Timesheet UI](https://github.com/consort-it/timesheet-ui) | An Angular 5 app to enter and query data | [Artifactory](https://jfrog.io)
-[Timesheet backend](https://github.com/consort-it/timesheet-backend)  | A Java 8/Spark microservice which stores data in a AWS RDS PostgresSQL DB | [Artifactory](https://jfrog.io)
-[Excel exporter](https://github.com/consort-it/excel-exporter)  | A message driven microservice which sends exported data via eMail | [Artifactory](https://jfrog.io)
-[Synthetic test](https://github.com/consort-it/timesheet-synth-test)  | A Cucumber powered containerized integration test which is meant to be run continuously to monitor core processes of the timesheet app | [Artifactory](https://jfrog.io)
