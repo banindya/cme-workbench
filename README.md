@@ -15,9 +15,9 @@ The toolkit addresses some of the **real world challenges** like
 CME Workbench is advanced tooling and requires some time to adapt to your infrastructure! For example the UI is secured by JWTs issued by a state-of-the-art IAM service as well as any services involved.
 </div>
 
-## Example app
+## Demo app
 
-The CME workbench manages "projects" which are a set of microservices. To illustrate the concepts we provide a [Timesheet sample app](https://github.com/consort-it/cme-workbench/wiki/Demo-Application) which is built from 4 microservices. To see how you can switch projects in the UI we treat the CME workbench as a second project.
+The CME workbench manages "projects" which are a set of microservices. To illustrate the concepts we provide a [Demo app](https://github.com/consort-it/cme-workbench/wiki/Demo-Application) which is built from 4 microservices. To see how you can switch projects in the UI we treat the CME workbench as a second project.
 
 ## What is it good for?
 
