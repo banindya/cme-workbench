@@ -1,4 +1,4 @@
-# CME Workbench: DevOps Tooling für Microservice-Environments
+# CME Workbench: DevOps Tooling for Microservice-Environments
 A DevOps toolkit for kubernetes on AWS. The workbench makes processes in a microservice world visible for developers in a non-console way.
 CME is short for Consort Microservice Experience.
 
