@@ -11,7 +11,7 @@ The toolkit addresses some of the **real world challenges** like
 - tool integration and 
 - cost control.
 
-You should be aware of the following concepts:
+You should be aware of the following **core concepts**:
 - [Microservice platform](https://github.com/consort-it/cme-workbench/wiki/A-microservice-platform)
 - [Apps on this platform](https://github.com/consort-it/cme-workbench/wiki/Anatomy-of-an-App)
 - [Microservices for the platform](https://github.com/consort-it/cme-workbench/wiki/Features-of-a-microservice)
