@@ -37,6 +37,8 @@ The Workbench connects otherwise independent products to speed up the DevOps liv
 
 The Workbench provides 30% of all use cases for an enterprise level project. Your team can enhance the toolkit with own microservices and Angular Components.
 
+The Workbench can be used on a tablet (minimum) or a full HD monitor (recommended). It makes no sense to use it on smart phones.
+
 **There is no commercial version of the toolkit and there are no licenses or fees.**
 
 ## Technical requirements
