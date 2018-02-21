@@ -11,6 +11,13 @@ The toolkit addresses some of the **real world challenges** like
 - tool integration and 
 - cost control.
 
+You should be aware of the following concepts:
+- [Microservice platform](https://github.com/consort-it/cme-workbench/wiki/A-microservice-platform)
+- [Apps on this platform](https://github.com/consort-it/cme-workbench/wiki/Anatomy-of-an-App)
+- [Microservices for the platform](https://github.com/consort-it/cme-workbench/wiki/Features-of-a-microservice)
+- [Security on the platform](https://github.com/consort-it/cme-workbench/wiki/Identities-&-Security-contexts)
+
+
 <div class="warning">
 CME Workbench is advanced tooling and requires some time to adapt to your infrastructure! For example the UI is secured by JWTs issued by a state-of-the-art IAM service as well as any services involved.
 </div>
