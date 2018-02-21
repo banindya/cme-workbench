@@ -1,4 +1,4 @@
-# CME Workbench
+# CME Workbench: DevOps Tooling für Microservice-Environments
 A DevOps toolkit for kubernetes on AWS. The workbench makes processes in a microservice world visible for developers in a non-console way.
 CME is short for Consort Microservice Experience.
 
@@ -17,6 +17,7 @@ You should be aware of the following **core concepts**:
 - [Microservices for the platform](https://github.com/consort-it/cme-workbench/wiki/Features-of-a-microservice)
 - [Security on the platform](https://github.com/consort-it/cme-workbench/wiki/Identities-&-Security-contexts)
 
+Because DevOps toolchains are composed of many different technologies we put the workbench on top of all these technologies and added some metadata to connect loose ends. The workbench helps to organize microservice based projects in enterprise environments.
 
 <div class="warning">
 CME Workbench is advanced tooling and requires some time to adapt to your infrastructure! For example the UI is secured by JWTs issued by a state-of-the-art IAM service as well as any services involved.
@@ -26,7 +27,7 @@ CME Workbench is advanced tooling and requires some time to adapt to your infras
 
 The CME workbench manages "projects" which are a set of microservices. To illustrate the concepts we provide a [Demo app](https://github.com/consort-it/cme-workbench/wiki/Demo-Application) which is built from 4 microservices. To see how you can switch projects in the UI we treat the CME workbench as a second project.
 
-## What is it good for?
+## What is the idea behind the workbench?
 
 CME Workbench is a Angular UI with several backend microservices. The UI is used by DevOps staff to tackle daily challenges ranging from "create a new microservice" to "calculate the monthly costs for project XY".
 
