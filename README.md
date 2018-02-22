@@ -64,3 +64,9 @@ Component | Description | Required
 [Confluence Adapter](https://github.com/consort-it/confluence-adapter) | Used by Jenkins job to update documentation pages | no
 
 Each microservice needs some features to be a [valid Kubernetes microservice](https://github.com/consort-it/cme-workbench/wiki/Features-of-a-microservice).
+
+## How do I get this to work?
+
+Kubernetes is not Kubernetes! You can configure a Kubernetes system in endless variations depending on your company size or budget.
+
+[Kubernetes concepts for CME Workbench](https://gibhub.com/consort-it/kubernetes-setup)
