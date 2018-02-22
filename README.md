@@ -69,4 +69,4 @@ Each microservice needs some features to be a [valid Kubernetes microservice](ht
 
 Kubernetes is not Kubernetes! You can configure a Kubernetes system in endless variations depending on your company size or budget.
 
-[Kubernetes concepts for CME Workbench](https://gibhub.com/consort-it/kubernetes-setup)
+[Kubernetes concepts for CME Workbench](https://github.com/consort-it/cme-workbench/wiki/Kubernetes-Setup)
